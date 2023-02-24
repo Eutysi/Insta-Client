@@ -1,0 +1,15 @@
+
+.main-top{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    border: 1 px solid black;
+    border-style: none none solid none;
+}
+.camera{
+    margin-left: auto;
+}
+h1{
+    color: green;
+    margin-left: 12px;
+}
